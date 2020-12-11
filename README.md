@@ -11,6 +11,9 @@ It contains all source code for Server, Client, and Common project.
 Click to watch YouTube video  
 http://www.youtube.com/watch?v=COKdDbeEUUQ  
 
+## Google Play App
+You can run it on [Google Play](https://play.google.com/store/apps/details?id=com.zestylife.EuNetTanks)
+
 ## How to use
 
 ### Server
